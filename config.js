@@ -17,7 +17,7 @@ global.defaultLenguaje = 'es';
 
 global.owner = [
   ['201020306059', 'ＦＬΣＸ－ＭＤ', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['20111094460', 'EREN', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
 ];
